@@ -16,13 +16,6 @@ This repository contains all the materials shared during the session to help you
 
 ---
 
-## Prerequisites
-- Basic Python knowledge  
-- Familiarity with APIs (helpful but not required)  
-- Interest in AI systems  
-
----
-
 ## Topics Covered
 - What is an AI Agent?  
 - Agent architecture (LLM + Tools + Memory)  
@@ -35,7 +28,8 @@ This repository contains all the materials shared during the session to help you
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/syedahmedkhaderi/AI-Agent-Workshop-Resources/
+   ```
 2. Follow the instructions in each folder
 3. Run the examples and experiment freely
 
